@@ -1,0 +1,7 @@
+{
+  "AntiNoclip": {
+    "Enabled": true,
+    "BanOnDetection": true,
+    "IncludeVehicle": true
+  }
+}
