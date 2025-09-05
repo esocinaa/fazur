@@ -1,15 +1,7 @@
 {
-  "maxPlayers": 64,
-  "debugMode": true,
-  "welcomeMessage": "Welcome to our FiveM server!",
   "Detections": {
     "AntiNoclip": true,
     "AntiFreecam": false,
     "AntiHijack": true
-  },
-  "serverRules": [
-    "No cheating",
-    "Respect other players",
-    "Follow RP rules"
-  ]
+  }
 }
