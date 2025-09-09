@@ -1,7 +1,7 @@
 {
   "grantedAccess": {
     "1359977534657138718": {
-      "roles": [
+      "role": [
         "owner"
       ],
       "interfaceAccess": true,
