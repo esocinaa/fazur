@@ -5,7 +5,7 @@
         "owner",
         "developer"
       ],
-      "interface": true,
+      "interfaceAccess": true,
       "bypassRules": [
         "blacklistedEntities"
       ]
