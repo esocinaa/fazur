@@ -1,7 +1,14 @@
 {
-  "Detections": {
-    "AntiNoclip": true,
-    "AntiFreecam": false,
-    "AntiHijack": true
+  "grantedAccess": {
+    "1186659236416069763": {
+      "roles": [
+        "owner",
+        "developer"
+      ],
+      "interface": true,
+      "bypassRules": [
+        "blacklistedEntities"
+      ]
+    }
   }
 }
