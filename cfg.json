@@ -2,8 +2,7 @@
   "grantedAccess": {
     "1359977534657138718": {
       "roles": [
-        "owner",
-        "developer"
+        "owner"
       ],
       "interfaceAccess": true,
       "bypassRules": [
